@@ -1,5 +1,5 @@
 <h1 align="center">Prediksi-Early-Diabetes</h1>
-<h2 align="center">Sumber:<a href="https://www.kaggle.com/code/awanpc/prediksi-early-diabetes-18-01-53-0018">Prediksi Early Diabetes</a></h2>
+<h3 align="center">Sumber:<a href="https://www.kaggle.com/code/awanpc/prediksi-early-diabetes-18-01-53-0018">Prediksi Early Diabetes</a></h3>
 
 --------
 
